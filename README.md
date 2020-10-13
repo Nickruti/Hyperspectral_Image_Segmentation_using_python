@@ -1,1 +1,1 @@
-# Hyperspectral_Image_Segmentation_using_python
+# Hyperspectral_Image_Segmentation_using_Python
